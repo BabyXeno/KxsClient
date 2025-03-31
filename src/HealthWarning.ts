@@ -64,8 +64,8 @@ class HealthWarning {
 		if (!this.warningElement) return;
 
 		// Example
-		this.warningElement.style.top = "20px";
-		this.warningElement.style.left = "20px";
+		this.warningElement.style.top = "742px";
+		this.warningElement.style.left = "230px";
 
 		//OR use transform use somethin like, this.warningElement.style.transform = `translate(20px, 20px)`; 
 	}
